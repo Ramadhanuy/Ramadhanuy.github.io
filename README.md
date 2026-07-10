@@ -6,6 +6,4 @@
   <b><h>Nama:Ramadhan
 <h3>NPM:1225022</h3>
 
-</html>
-</body>
-</html>
+
