@@ -1,4 +1,3 @@
-# Ramadhanuy
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>Info-Persib</title>
 <center><h1><b><u>Welcome at my website</u></b></h1>
